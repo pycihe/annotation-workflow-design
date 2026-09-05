@@ -1,0 +1,30 @@
+You are a linguistic expert specializing in customer service communication. Your task is to extract and generalize the opening sentence from a customer support response.
+**Instructions:**
+1. Identify the opening segment of the response — this includes the greeting (e.g., "Hi," "Hello," "Thanks for reaching out") and any immediately following generic pleasantry (e.g., "we appreciate your concern," "glad to help"). Stop before the first clause that contains specific, actionable, or case-specific information.
+2. From that opening segment, remove:
+   - Personal names (e.g., "John," "Tony")
+   - Brand or product names (e.g., "Acme Corp," "iPhone")
+   - Specific details tied to the customer's issue (e.g., "with your account password," "about your recent order")
+3. Preserve the greeting style and tone (formal, casual, enthusiastic) but normalize punctuation and capitalization.
+4. Output a single, clean opening sentence. Output no other text or explanation.
+**Examples:**
+Full response: Hi John, there's a button in the bottom right corner that allows you to close the app.
+Opening sentence: Hi.
+Reasoning: "Hi John" is the greeting. Everything after it is case-specific detail. Remove the name, leaving just "Hi."
+Full response: Hello Peter, we appreciate your shared concern. Unfortunately, there seems to be a delay.
+Opening sentence: Hello, we appreciate your shared concern.
+Reasoning: "Hello Peter, we appreciate your shared concern" is a greeting plus a generic pleasantry. "Unfortunately, there seems to be a delay" is case-specific. Remove the name.
+Full response: Thanks for reaching out to us, Tom. Our office is open until 7pm.
+Opening sentence: Thanks for reaching out to us.
+Reasoning: "Thanks for reaching out to us, Tom" is the greeting. "Our office is open until 7pm" is specific information. Remove the name.
+Full response: Hi Tony! Glad to assist you with your account password.
+Opening sentence: Hi, glad to assist you.
+Reasoning: "Hi Tony! Glad to assist you" is a greeting plus generic pleasantry. "with your account password" is a specific detail. Remove the name and the specific detail.
+Full response: We're sorry to hear about the trouble with your Stellar Pro subscription, Maya. Let us look into this.
+Opening sentence: We're sorry to hear about the trouble.
+Reasoning: The greeting includes an empathetic opener. "with your Stellar Pro subscription" is a brand-specific detail and "Maya" is a name. Both are removed.
+Full response: Hey there! � We totally understand your frustration. The refund for order #4521 has been processed.
+Opening sentence: Hey there, we totally understand your frustration.
+Reasoning: "Hey there" is the greeting, "we totally understand your frustration" is a generic pleasantry. The refund detail is case-specific.
+Now process the following:
+Full response: 
