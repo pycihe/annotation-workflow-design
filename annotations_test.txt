@@ -1,0 +1,346 @@
+1216382480015450112	-2	WEAK	Hi there.
+1236319672753999872	0	WEAK	Hi, welcome to the support on Twitter.
+1157309494893764608	-1		Please note that.
+1215304285199556609	-1	WEAK	Hi, welcome to our support.
+1221461526260772869	-2	STRONG	Hi there, I apologize for the experience you've had and would love to help you out.
+1235500548582850563	-1	WEAK	Hi.
+1224518777582174208	-2	WEAK	Hey there.
+1222226153089323008	-1	WEAK	Hi there, thanks for reaching out.
+1141346973049479170	-1	WEAK	Hi there, welcome to the support.
+1224273508865175552	-1	STRONG	Hi, thank you for reaching out to support; I'm glad to assist you.
+1206534836216684545	-1	WEAK	Hi, thanks for tweeting, I'd like to help.
+1155904203002241027	-1	WEAK	Hi, thanks for tweeting.
+1140319308909703168	-1	STRONG	Hi there, welcome to the support on Twitter; Id love to help.
+1123226061179723776	-1	STRONG	Hi, greetings for the day! I'd be glad to help you.
+1150522479607083008	-1	STRONG	I'm afraid.
+1242394540935278592	-1	STRONG	Hi, thanks for tweeting and I'd be glad to assist you.
+1212702420565807104	-1	WEAK	Hi, thanks for tweeting.
+1159269466875686912	0	WEAK	Hi, thanks for tweeting.
+1242132094924419079	0	WEAK	Hello, I'd like to help.
+1119404761118208000	0	STRONG	Hi, thanks for reaching out; I'm not worried and would be glad to assist you.
+1210187948626309120	0	WEAK	Hi there, thanks for tweeting; I'd like to help.
+1217032572422651904	-1	WEAK	Hi there, thanks for tweeting, I'd like to help.
+1207395827494187008	-1	STRONG	Hi, greetings for the day! I'm glad to help.
+1148329504076513281	0	WEAK	Hi, thanks for reaching out, I'd like to help.
+1151942305147789312	0	STRONG	Hi, thanks for reaching out to us on Twitter, not to worry Id be glad to assist you.
+1154414018280316929	-2	STRONG	Hi, I'd be glad to help.
+1144673587392966656	-1	WEAK	Hi, thanks for tweeting, I'd like to help.
+1233212837813612544	-1	WEAK	Please contact our phone support.
+1152597504988332034	-1	WEAK	Hi.
+1230153811852840961	-1	STRONG	Hi there, thanks for tweeting, I'd be glad to assist you.
+1242452719526268928	0	STRONG	Hi, thanks for reaching out. I'd be glad to assist you.
+1237278254756540416	-2	STRONG	Hi, Id love to help.
+1230496200098344960	0	STRONG	Hi, thanks for tweeting, I'd be glad to assist you.
+1122498857873502210	-2	WEAK	Hi there, thanks for reaching out to us, Im here to help.
+1098238793767735298	-1	WEAK	Hi, thanks for tweeting.
+1095423441040076800	-1	WEAK	Hello.
+1095472391046586368	-2	WEAK	Hi, thanks for tweeting, Id like to help.
+1238476360756019201	0	WEAK	Thank you for your reply.
+1222111661135294465	-1	WEAK	Hi there, thanks for tweeting and I'd like to help.
+1213527808611209216	-1	STRONG	Hi, I'm sorry that you have an issue.
+1213795191271723008	-1	WEAK	Hi there, thanks for tweeting, I'd like to help.
+1211599261508333568	0	WEAK	Hi there, thanks for tweeting, I'd like to help.
+1235678010373599232	0	MISSING	(empty)
+1239179219302670336	0	WEAK	Hi there, thanks for tweeting; I'd like to help.
+1103370848432320512	-1	WEAK	Hi there, thanks for the tweet.
+1243339305105281024	-2	STRONG	Hi there, I apologize for the experience you've had and would love to help you out.
+1242435857803399169	-1	STRONG	Hi, thanks for reaching to support; I'd be glad to assist you.
+1112066022331174912	0	MISSING	(empty)
+1244764975849254916	-1	STRONG	Sorry for any trouble.
+1240748246030585857	-2	WEAK	Thanks for sharing your concerns with us.
+1240833755050381312	-1	WEAK	Hi there.
+1239306112425267200	-2	STRONG	Sorry about any delay you're encountering, and we appreciate your patience.
+1244487560744886272	-2	STRONG	Sorry for the trouble, we definitely want to help get to the bottom of this.
+1245743269234999298	-1	WEAK	We can help with that.
+1241952289432182789	0	WEAK	Hi there.
+1141361102636421121	-1	WEAK	Hi, thanks for reaching out.
+1239003491533717504	-1	STRONG	Glad to assist.
+1242642511597879296	-1	STRONG	Appreciate you reaching out.
+1244527569078308864	0	WEAK	Thanks for reaching out.
+1240483828143095808	-1	STRONG	Hi, glad to help.
+1141423779085787136	-1		If downgrades, no files will be lost.
+1232346223300022274	-1	WEAK	Hi, thanks for reaching out.
+1242639329102528514	-1	MISSING	(empty)
+1201493750511480832	-1	STRONG	Glad it was caught.
+1218173175047098370	-1	WEAK	Hi.
+1158441079248740353	0	WEAK	Hi there, help is here.
+1243995761731342338	-1	STRONG	We're terribly sorry for the frustration.
+1242175703560458241	0	WEAK	Thanks for the tag.
+1244081185573216256	-1	STRONG	Oh no! Sorry for the trouble.
+1245059386478821379	-1	WEAK	Thanks for reaching out.
+1245904347113893891	-2	STRONG	Hey there, we're sorry to hear that.
+1245036002328170497	0	STRONG	Hey there, thanks for reaching out, were sorry to hear that.
+1149938251576201216	-2	WEAK	Hello.
+1229191878643503105	-1	MISSING	(empty)
+1224456300391731200	-1	WEAK	Hi there, thanks for getting in touch.
+1223165102641352705	-2	WEAK	Hi there.
+1242283098974322688	-1	WEAK	Thanks for your screenshot.
+1239246463378563073	-1	WEAK	Thank you for reaching out to us.
+1245442209169715201	+1	WEAK	Hey there, thanks for reaching out.
+1243082000988344322	-2	MISSING	(empty)
+1226142433286742017	-1	STRONG	We understand that this can be frustrating.
+1158161275211399168	-2	STRONG	Glad to help.
+1242710222541672448	-1	WEAK	We do have that facility.
+995430906230923265	-1	WEAK	Hi there.
+1224628895330316293	-2	WEAK	Hi there.
+1244947101617926149	-1	STRONG	Hey, sorry to hear that.
+1227769381733748736	-1	WEAK	We can help to resolve this issue with you oneonone.
+1237104015672049664	-1	WEAK	I agree; we want to keep the platform safe and fair.
+1159250620945186816	-1	MISSING	(empty)
+1148646765924687872	-2	STRONG	Hi, we appreciate your concern.
+1225369379216510982	-1	WEAK	Hi there.
+1235859342470963207	-1	STRONG	Oh no! Sorry to hear that. Well do our best to get you out of this jam.
+1245394210494320643	-1	STRONG	Hey, were sorry to hear that.
+1232356909627342849	+2	WEAK	You're welcome.
+1238230544514777089	0	WEAK	Great question, we can help.
+1157842617092231168	-1	WEAK	Lets work together to get this taken care of.
+1159884461502345216	-1	STRONG	We're glad to hear.
+1245446961274204165	-1	STRONG	We would be happy to look into that.
+1224381058466140160	-2	WEAK	Please disregard the notification received.
+1244416918725033990	-1	WEAK	Lets work on this issue together and find the best resolution!
+1245691809080193025	-1	STRONG	We're sorry to hear this.
+1240781246088658944	0	WEAK	Hey there.
+1240050279900491777	-2		We'll share your thoughts.
+1244289981645979649	-1	WEAK	Please create a support ticket so we may assist you one-on-one.
+1243397015569985536	-2	WEAK	Hey.
+1243279015080681472	0		Yes.
+1137064530729676800	-2	WEAK	Hi there.
+1243879263666933760	0	WEAK	I get your interest.
+1240996505814740992	-1	WEAK	Hello.
+1237529580795133952	-1	STRONG	Hi there, let us know, we will be happy to help.
+1238804806204035072	-1	WEAK	Hi.
+1242578305888501762	-1	STRONG	We would be happy to look into that.
+1242948954335084544	0	STRONG	We're happy to help.
+1244454640248373253	-1	WEAK	Hey there.
+1240108447498149888	+1	WEAK	Hi there.
+1239015538178830337	-1	STRONG	Hello there, sorry for the late reply.
+1244022082733772800	0	WEAK	Thanks for reaching out.
+1241094026620801033	-2	MISSING	(empty)
+1244516648054190080	-1	MISSING	(empty)
+1245680208306413569	0	STRONG	Hey there, we're afraid that isn't possible.
+1158841405151895554	-1	WEAK	Hey.
+1243675622179655680	-2	STRONG	I'm sorry, but we're unable to assist.
+1245265616115847169	-1	MISSING	(empty)
+1242483729399984128	-1	STRONG	Hello, congratulations!
+1160847575836221440	0	STRONG	Hi again, were afraid we dont clearly understand.
+1240359022743752706	-1	WEAK	The health and safety of our customers and employees are our top priorities.
+1159660675289010177	-1	WEAK	Hi.
+1242896646796689408	-1	STRONG	Sorry to hear you've been waiting.
+1148570198171107328	-2	WEAK	Hi there.
+1239233748614422531	-1	WEAK	Here to help.
+1240580639004307458	-1	STRONG	Im sorry to hear that happened.
+1245147624375758850	-2	WEAK	Thanks for reaching out!
+1228666643003400197	-1		Thanks.
+1240745639002222592	0	WEAK	We want to get you back up and running.
+1230286820333756416	-1	WEAK	We can help with that.
+1240692068839612417	-2	WEAK	Weve prohibited certain items from being sold and are in the process of removing items found to be attempting to profit from the current health crisis.
+1237774962443902979	-1	WEAK	Here to help.
+1228365552877539328	-1	MISSING	(empty)
+1244387372340568064	-2	STRONG	We're so sorry for the trouble and for any frustration.
+1245345287100645377	-1	WEAK	Hey there.
+1220064452583796739	-1	WEAK	Hi there, thanks for reaching out.
+1159304127698145281	0	STRONG	Thanks for reaching out, sorry about any frustration or confusion.
+1219670121096060932	-2	WEAK	Hi there.
+1245269604139745281	0	WEAK	Hi there.
+1244167753197641735	-2	WEAK	We're reviewing listings on the site.
+1234856144834891777	0	WEAK	Hi, thanks for reaching out.
+1219247358422265856	0	STRONG	Hey there, sorry to hear about that.
+1244894781542727683	-2	WEAK	Hi.
+1242237287779512320	-1	WEAK	Thanks for reaching out to us.
+1243200791034413056	-2	STRONG	Hi there, sorry about this.
+1238853349438640129	0		The health and safety of our customers and employees are our top priorities.
+1154433878561632258	-2	WEAK	Hello.
+1245341820852322306	0	WEAK	Hi.
+1245763246956646400	0	WEAK	Thanks for the tag.
+1240995993073696773	-2	WEAK	Great question!
+1158788455905845253	-1	WEAK	We're here to help.
+1242442736462172169	-2		Rest assured.
+1199982300886384641	-2	WEAK	Hi.
+1243210301186740225	+1	STRONG	Appreciate you tagging us currently.
+1242100922823647233	-1	WEAK	Hi.
+1244967035853045765	-1	STRONG	Apologies!
+1229386433485561856	-1	WEAK	Hi there.
+1243187201879552001	-1	STRONG	Hey, were sorry to hear that.
+1244738353435729926	-2	STRONG	Hi, sorry for the frustration.
+1239573725504208896	0	STRONG	Glad to clarify.
+1242454801927024640	0	WEAK	Hey, fingers crossed well be able to have it soon.
+1239396185456156675	0	WEAK	Here to help.
+1222307926276218883	-1	WEAK	Hi, thanks for reaching out.
+1225910875661488134	-2	STRONG	Oh no, lets see what we can do.
+1240268443850604548	-1		Where are you getting these?
+1204082361907974144	-1	WEAK	Hi there.
+1242186237655605255	-1	WEAK	Wed like to help out.
+1238584745191182336	-1	STRONG	Glad to help.
+1244659119551909888	0	WEAK	We can help with that.
+1158033452542943233	-2	WEAK	We're here to help you out today; no one wants to be charged for subscriptions they wish to cancel.
+1241014946131070982	0	WEAK	We can help with that.
+1241433618586705921	-1	WEAK	Hi there.
+1242769955084525570	-1	STRONG	Hi, were more than happy to assist you.
+1244397390762848256	-1	WEAK	Hey there,
+1207927427734867968	-1	WEAK	Hi.
+1158869107132862464	-2	MISSING	(empty)
+1160846022362447873	-2	WEAK	Hi.
+1230694276532776960	-1	WEAK	Please create a support ticket so we may assist you oneonone.
+1159949673366511618	-2	WEAK	We are here to help.
+1239641976888274948	-2	WEAK	We can help with that.
+1134547105069117440	-1	WEAK	Hi.
+1159122979533533184	0	WEAK	Hello there.
+1243409909334429697	-1	WEAK	Hey.
+1196748508520427520	0	WEAK	Hi.
+1244166631389003778	-2	MISSING	(empty)
+1149052487363465216	0	STRONG	Hello, sorry to hear of the delay.
+1150696782084681728	-1	WEAK	Hi.
+1243435790056730624	0	WEAK	Hi.
+1244299433753395202	-1	STRONG	We would be happy to look into that.
+1230567354217586693	-1	WEAK	Hi, thanks for reaching out.
+1154530394227671040	0	WEAK	Hi.
+1243261071491657728	+2	STRONG	Your kindness is so appreciated.
+1235578595612987392	-2	WEAK	Hi.
+1235350553561116673	-1	MISSING	(empty)
+1244243314158829574	+1	WEAK	Hey there.
+1137074274349531137	-2	WEAK	Hi.
+1224570455694217216	-2	WEAK	Hi there.
+996058141333868544	-1	WEAK	Hi there.
+1240628020458782722	-2	WEAK	We want to see how we can help.
+1243612794592940033	-1	WEAK	Thanks for reaching out.
+1244652313081450496	-1	MISSING	(empty)
+1245094813738942467	-2	STRONG	We're sorry to hear about this; thats not the experience we want you to have.
+1244379245046050818	-2	WEAK	Wed like to get you pointed in the right direction.
+1242529949103333382	0	STRONG	Glad you reached out.
+1152169487065423872	+2	WEAK	Hi, we continually strive to improve and upgrade our products to make them even more useful to our members.
+1229791740447600640	-1	WEAK	We would like to look into this issue.
+1244655138754703361	0		Unfortunately, we can't provide specifics as this may benefit those not playing by the rules.
+1237572029022265344	-1	MISSING	(empty)
+1242519742893735936	-1	WEAK	Hmm, that's odd.
+1239640393756676097	-2	MISSING	(empty)
+1240129821977587712	-2	WEAK	Hi there.
+1243178023928696832	-1	WEAK	Hi.
+1243179618149990403	0	WEAK	Hi.
+1244734679426752512	0	MISSING	(empty)
+1244978878851973120	0	STRONG	Hi, were sorry for the trouble.
+1238205426417557504	-1	STRONG	Hi, so sorry to hear about this.
+1239381408377901056	-1	STRONG	Hi there, sorry to hear that.
+1154363914227998720	-1	WEAK	Hi.
+1245448521060429824	-1	STRONG	I'm very sorry.
+1244886787153166337	-2	STRONG	Hey, we're sorry to hear that.
+1202138525887586304	0	WEAK	Hi.
+1239298630063882241	0	STRONG	Hi there, glad to help.
+1153972692170813440	-1	WEAK	Hi there.
+1242412645128581125	-2	WEAK	Hi there.
+1221037428993073157	-1	WEAK	Hi there.
+1235748134929588224	-2	MISSING	(empty)
+1235184338561576960	-2	WEAK	Hi.
+1242906723221987331	-2	WEAK	Hey there, we're here to help.
+1233828030373662721	-1	WEAK	Hi.
+1234990098745217025	0	WEAK	Unfortunately.
+1153730809955848192	0	WEAK	Hi there.
+1148642180619276289	-1	STRONG	Hi, we appreciate your concern.
+1242502983650287617	0	WEAK	Hey, we can see how thatd be useful!
+1241472045340213248	-1	MISSING	(empty)
+1234496692227059712	-1	WEAK	We can help with that.
+1242594300816510976	0	MISSING	(empty)
+1241499858495774726	+1	WEAK	Thank you for reaching out! That is a great suggestion.
+1242586300193984513	-1	STRONG	I'm sorry for the trouble.
+1230480491352031232	0	WEAK	Hi.
+1241103983080550410	-1	MISSING	(empty)
+1242937908031557632	+1	WEAK	Thanks for tagging us.
+1206555839370350592	-2	WEAK	Hi there.
+1149380060874330112	-1	STRONG	So sorry to hear that.
+1239375398393307137	-1	STRONG	Hi there, thanks for reaching us, sorry to hear that.
+1243727135359078406	-2	WEAK	Hey there, sometimes content gets temporarily removed because of licensing changes.
+1154734636850929664	-2	WEAK	Hi there.
+1244243695764942853	-2	STRONG	Sorry.
+1222562539290144768	-1	STRONG	Hi, we are sorry.
+1243975198354878464	-1	WEAK	Thanks for reaching out.
+1227353618707369985	-1	WEAK	Hi.
+1155107463386898433	-1	WEAK	Hi there.
+1156937733266276353	-2	STRONG	Hello, sorry for the inconveniences.
+1195868011527331840	-2	MISSING	(empty)
+1241145791554732032	-1	MISSING	(empty)
+1160684859590893568	0	WEAK	Hey there.
+1237830311968485379	0	WEAK	Hi there.
+1240702265851166720	-2	WEAK	Hi there, thanks for reaching out.
+1240061514897330181	-1	STRONG	Hi there, glad to help.
+1241889918579867653	-1	STRONG	Sorry to hear about the trouble.
+1152209223742304256	-2	WEAK	Hi.
+1133001452681682944	0	WEAK	Hi.
+1243636045658406912	-1		Help is here.
+1239411645589356546	0	WEAK	Hi there, we've got your back.
+1225273039782326272	-1	STRONG	Hi there, sorry to hear about this.
+1244081447092342785	-2	WEAK	Hello, lets take a look at whats going on.
+1240631545561481223	-2	WEAK	Thanks for bringing this up.
+1234571828003266565	-1	WEAK	Hi.
+1242860952200110085	-1	WEAK	It seems there may be a discrepancy in the reporting.
+1244345784256081920	-1	STRONG	Sorry to hear that.
+1237952415728644096	-1	STRONG	Glad to help.
+1158905451158933504	-1	WEAK	Hey.
+1245382852612624385	0	WEAK	Hi.
+1241113903653945350	-1	WEAK	Hello.
+1245182617856684033	-2	MISSING	(empty)
+1239018080153501697	-2		The health and safety of our customers and employees are our top priorities.
+1239170925976846338	-2	WEAK	Hello, thank you for reaching out.
+1245325092206362624	-1	WEAK	Hi there.
+1159307961119830017	0	STRONG	I am sorry.
+1239964124060069894	0	WEAK	Hi there, here to help.
+1245856001523240966	-1	MISSING	(empty)
+1242333612004925440	-1	STRONG	I'm sorry you're having trouble!
+1228353795802963968	0	WEAK	Hi there, thanks for getting in touch.
+1239509115124232193	0	WEAK	Hi there, thanks for reaching out.
+1217131441437519876	-1	WEAK	Hi there.
+1244298606766678016	0	STRONG	Apologies for the trouble.
+1243881068161380352	-2	WEAK	Hi, thanks for reaching out.
+1237380973874106375	-2	WEAK	Thanks for reaching out and letting us know of your concerns.
+1232477286965948418	-1	MISSING	(empty)
+1160884602677989376	-2	WEAK	Hi there.
+1230546094020534273	-1	STRONG	We would be happy to look into that.
+1244683470774964224	0	WEAK	Hey there, we understand wanting to take time for yourself.
+1241437939923484672	-1	WEAK	We have many ways for our customers to make their payments and we're always here to help as well.
+1237263654753464320	-1	STRONG	I'm really sorry for any trouble you're having!
+1241731096670359554	-2	MISSING	(empty)
+1244652819568885760	0	WEAK	Hey there! We think that's a nice idea.
+1157849911817379840	-2	WEAK	Hi there, have you already contacted us?
+1230180466218631168	-2	WEAK	Hi there.
+1245306666628927488	-1	WEAK	Hey there.
+1242516602131582976	-1	WEAK	Hey there.
+1244834740949180416	-1	WEAK	Hey there.
+1244445153282215936	-1	MISSING	(empty)
+1159181725018316800	0	WEAK	Hey again.
+1235608701035143169	0	WEAK	Hi, we hope you don't mind us jumping in.
+1238621679439486978	0	WEAK	Hello there.
+1232849174825242624	-1	MISSING	(empty)
+1225554321149956096	0	WEAK	Hi there, thanks for reaching out.
+1241402650312224768	0	STRONG	We're happy to help.
+1237781837868675075	0	WEAK	Please create a support ticket so we may assist you oneonone.
+1244783569505050625	0	WEAK	Hi.
+1241195597392228353	-1	STRONG	Apologies.
+1230092924689448962	+2	WEAK	Hi there.
+1242721033473359872	-1	STRONG	My apologies for the inconvenience.
+1245893383622549504	0	STRONG	Im sorry.
+1243609583525990400	-1	WEAK	Hi there.
+1131672849641541632	-2	WEAK	Hi there.
+1240954716823093248	-1	WEAK	Hi.
+1160072962076270592	0	WEAK	Hi, here to help.
+1242469075172851713	-1	WEAK	Hi.
+1242164585395863557	-1		Just to confirm.
+1240998551427129346	-1		The health and safety of our customers and employees are our top priorities.
+1245311578100109313	0	WEAK	Hi there, i'd like to help in any way i can.
+1239819442772561922	-1		I hope this information was helpful.
+1238618842122915840	-2	WEAK	Hi there! Sure we can assist.
+1226608301418438663	-1	STRONG	Hi, sorry to hear that you're having problems.
+1229898441326825479	-1	WEAK	Hey there.
+1236782579954696195	-1	WEAK	Please create a support ticket so we can investigate this matter.
+1244722326131769344	0	STRONG	Thanks for reaching out to us, we apologize for any confusion.
+1231378363744444419	-2	MISSING	(empty)
+1235876871553929217	-1	WEAK	Hi, thanks for reaching out.
+1227836170039631872	0	MISSING	(empty)
+1240262253825359877	-1	WEAK	Rest assured that our team is tirelessly working to have these removed.
+1156205180070715392	0	WEAK	Hi there.
+1237839524006203399	-1	WEAK	Hello there.
+1241057297780084736	-2	WEAK	Hi, thanks for reaching out.
+1145749723875356672	-1	WEAK	Hi.
+1157876793853931521	-1	WEAK	Hi there.
+1159820542452498432	-2	WEAK	Hi.
+1232259905521844224	-1	WEAK	Hi.
+1242586819322974209	0	WEAK	It sounds like we can help.
+1242525440171966465	-2	WEAK	Thanks for reaching out.
+1238593864669290499	-2	WEAK	Hi.
