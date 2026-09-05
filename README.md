@@ -3,4 +3,4 @@
 This directory provides the prompts used in the following tasks in the worflow:
 - Task 1: Sentiment classification
 - Task 2: Empathic expression extraction and rewriting
-- Task 3: Empathy-strength classification
+- Task 3: Empathy strength classification
